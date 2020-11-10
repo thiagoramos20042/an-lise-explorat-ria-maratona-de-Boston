@@ -7,24 +7,3 @@ Com a participação atual de mais de vinte mil atletas de diversos países a ca
 Qualificação
 Boston é uma das maratonas mais rígidas na admissão de participantes. O motivo para isso é a enorme procura de inscrições através dos anos, sempre crescente, e a impossibilidade física de acomodar todos os interessados nas condições do percurso tradicional existente, uma estrada não muito larga que liga a cidadezinha de Hopkinton a Boston. Os tempos exigidos, dentro das faixas etárias, são conseguidos apenas por atletas muito bem preparados.
 
-Fonte de dados
-Para este pequeno tutorial eu decidi pegar uma base de dados em uma das fontes mais conhecidas no mundo dos Cientistas de Dados, o Kaggle. Decidi então trabalhar com a base de dados Boston Marathon 2019, onde encontramos todos os dados dos participantes que concluiram a maratona de Boston.
-
-Selecionando as perguntas que eu quero achar as respostas através da base de dados.
-1- Qual o número de participantes dividido por gêneros?
-2- Quais países foram os top 10 de participação?
-3- Valor percentual dos países participantes?
-4- Quantidade de brasileiros na prova?
-5- Quantidade de brasileiros do sexo masculino na prova?
-6- Quantidade de brasileiros do sexo feminino na prova?
-7- Quantidade de brasileiros do sexo masculino que fizeram a prova abaixo de 3h?
-8- Quantidade de brasileiros do sexo feminino que fizeram a prova abaixo de 3h?
-9- O menor tempo brasileiro na categoria feminina na maratona de Boston?
-10- O maior tempo brasileiro na categoria feminina na maratona de Boston?
-11- O menor tempo brasileiro na categoria masculina na maratona de Boston?
-12- O maior tempo brasileiro na categoria masculina na maratona de Boston?
-13- Média de idade dos brasileiros da categoria masculina?
-14- Média de idade dos brasileiros da categoria feminina?
-
-
-
